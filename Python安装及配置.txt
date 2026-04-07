@@ -1,0 +1,2 @@
+1、官方网站下载安装Python
+2、命令行安装Pyinstaller： .\pip install pyinstaller
